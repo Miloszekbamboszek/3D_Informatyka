@@ -1,0 +1,1 @@
+print("Gruszka \nbanan \nkiwind")
