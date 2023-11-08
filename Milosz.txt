@@ -1,0 +1,53 @@
+
+dowdawanie liczb i dodawanie ciągów tekstowych
+          "siemano" + "nara"
+             10 + 12 => 22
+
+
+odejmowanie liczb
+             20 - 10 => 10
+
+
+dzielenie
+             20 / 20 => 1
+
+
+dzielenie całkowite z zaokrąglaniem liczby w dół
+              13 / 2 => 6
+
+
+reszta z dzielenia
+              15 / 7 = 1
+
+
+znak mniejsze niż + ogarnia czy takie jest
+        < np. 6 < 4   => false
+
+
+znak większe niż + ogarnia czy takie jest
+        > np. 6 > 4   => true
+
+
+znak potęgowania
+         ** np. 2 ** 2 = 4 
+
+
+znak więkego + równe ogarnia czy jest takie jest
+        >= np. 7 >= 5  => true
+
+
+znak mniejszęgo + równe
+        <= np. 7 <= 5   => false  
+
+
+operator logiczny "i"
+                and
+
+
+operator logiczny "lub"
+                or
+
+
+operator logiczny "nie"
+               not
+ 
